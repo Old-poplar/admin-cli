@@ -9,7 +9,7 @@
   "author": "yangqiying",
   "license": "ISC",
   "bin": {
-    "admin": "./bin/admin.js"
+    "admin": "./bin/cli.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
