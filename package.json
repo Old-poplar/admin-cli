@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yangqiying",
+  "author": "qiqi_girl",
   "license": "ISC",
   "bin": {
     "admin": "./bin/cli.js"
