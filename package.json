@@ -9,7 +9,11 @@
   "author": "qiqi_girl",
   "license": "ISC",
   "bin": {
-    "admin": "./bin/cli.js"
+    "cli": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Old-poplar/admin.git"
   },
   "dependencies": {
     "chalk": "^4.1.0",
